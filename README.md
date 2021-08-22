@@ -3,7 +3,7 @@
 ### [https://www.passerma.com/chat/](https://www.passerma.com/chat/)
 ## 使用方法
 ### 启动后台 
-运行于4000端口
+运行于7956端口
 ``` shell
 $ cd nest
 $ yarn && yarn prod
