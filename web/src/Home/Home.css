@@ -1,0 +1,43 @@
+.Home {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    bottom: 50px;
+    overflow: auto;
+  }
+  .Home .input-wrap {
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding: 10px 20px;
+    background-color: #e9eaf3;
+    border-top: 1px solid rgba(180, 180, 180, 0.5);
+    display: flex;
+  }
+  .Home .input-wrap .sentInput {
+    display: inline-block;
+  }
+  .Home .input-wrap .sentName {
+    width: 400px;
+    display: inline-block;
+    margin-right: 20px;
+  }
+  .Home .home-enter {
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+  }
+  .Home .home-enter .home-enter-name {
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    color: #000;
+    font-size: 14px;
+    background: #e9eaf3;
+    border-radius: 8px;
+    padding: 0 10px;
+  }
+  
